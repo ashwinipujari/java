@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 the best example......nothing..haha nothing nothing
+=======
+the best example......nothing..haha ypp
+>>>>>>> Stashed changes
